@@ -1,0 +1,7 @@
+{
+  "name": "SuperAgenda",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
